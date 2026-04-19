@@ -16,8 +16,8 @@ Lấy cảm hứng từ tựa game *Valiant Hearts: The Great War*, dự án tá
 * **Hoàng Đình Khôi :** Mình là Coder chính,kiêm Level & Gameplay Design.
 
 ### 📚 Tài liệu chi tiết
-* [cite_start][Báo cáo đồ án (PDF)](path/to/Bao_cao_DATN_BCDA.pdf) [cite: 35]
-* [cite_start][Poster dự án (PDF)](path/to/PS2_Copy.pdf) [cite: 1]
+* [Báo cáo đồ án (PDF)](path/to/Bao_cao_DATN_BCDA.pdf)
+* [Poster dự án (PDF)](path/to/PS2_Copy.pdf)
 
 ### Thông điệp cốt lõi:
 * **Tính nhân văn:** Khắc họa sự vô danh đầy bi kịch và những mất mát lặng thầm.
