@@ -11,7 +11,7 @@
 
 Lấy cảm hứng từ tựa game *Valiant Hearts: The Great War*, dự án tái hiện cuộc kháng chiến chống thực dân Pháp (1945 - 1954) dưới góc nhìn của những **nhân vật vô danh**. Họ là những người lính, người dân bình thường từ cả hai phía chiến tuyến, đại diện cho những phận người nhỏ bé bị cuốn vào dòng chảy khốc liệt của chiến tranh.
 
-##Nhóm phát triển : Chill Dev
+## Nhóm phát triển : Chill Dev
 * **Nguyễn Thiện Nhân :** Nhóm trưởng, Đạo diễn cho kịch bản và âm thanh,GDD của nhóm.
 * **Trang Gia Ngân :** Thiết kế đồ hoạ chính của nhóm ,đảm nhận phần Animation và UI/UX của game.
 * **Hoàng Đình Khôi :** Mình là Coder chính,kiêm Level & Gameplay Design.
