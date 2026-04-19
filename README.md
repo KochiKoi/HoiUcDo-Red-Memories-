@@ -15,9 +15,9 @@ Lấy cảm hứng từ tựa game *Valiant Hearts: The Great War*, dự án tá
 * **Trang Gia Ngân :** Thiết kế đồ hoạ chính của nhóm ,đảm nhận phần Animation và UI/UX của game.
 * **Hoàng Đình Khôi :** Mình là Coder chính,kiêm Level & Gameplay Design.
 
-### 📚 Tài liệu chi tiết
-* [Báo cáo đồ án (PDF)](./Bao_cao_DATN_final.pdf)
-* [Poster dự án (PDF)](./Poster Project DATN.pdf)
+### 📚 Tài liệu dự án
+* [Báo cáo đồ án tốt nghiệp - Hồi Ức Đỏ](./Báo%20cáo%20DATN%20final.pdf)
+* [Poster dự án - Hồi Ức Đỏ](./Poster%20DATN.pdf)
 
 ### Thông điệp cốt lõi:
 * **Tính nhân văn:** Khắc họa sự vô danh đầy bi kịch và những mất mát lặng thầm.
