@@ -17,7 +17,7 @@ Lấy cảm hứng từ tựa game *Valiant Hearts: The Great War*, dự án tá
 
 ### 📚 Tài liệu dự án
 * [Báo cáo đồ án tốt nghiệp - Hồi Ức Đỏ](./Báo%20cáo%20DATN%20final.pdf)
-* [Poster dự án - Hồi Ức Đỏ](./Poster%20DATN.pdf)
+* [Poster dự án - Hồi Ức Đỏ](./Poster%20Project%20DATN.pdf)
 
 ### Thông điệp cốt lõi:
 * **Tính nhân văn:** Khắc họa sự vô danh đầy bi kịch và những mất mát lặng thầm.
